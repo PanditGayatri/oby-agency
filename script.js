@@ -123,7 +123,6 @@ function cursorAnimation() {
     }
   });
 }
-function Actions(){
 function Actions() {
   Shery.makeMagnet("#nav-part2 h3", {
     ease: "cubic-bezier(0.23, 1, 0.320, 1)",
