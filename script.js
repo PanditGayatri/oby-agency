@@ -130,7 +130,6 @@ function Actions() {
   });
 
 }
-}
 function sheryAnimation(){
   Shery.imageEffect(".image-div,.image-div1",{
     style:5,
@@ -140,7 +139,7 @@ function sheryAnimation(){
   })
 }
 function videoAnimation(){
-  const videoContainer = document.querySelector("#video");
+const videoContainer = document.querySelector("#video");
 const videoPlay = document.querySelector("#video video");
 const videoImg = document.querySelector("#video img");
 videoContainer.style.cursor = "none";
