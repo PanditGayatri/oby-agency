@@ -786,8 +786,8 @@ body {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding-right: 15vw;
-    padding-top: 4vw;
-    margin-bottom: 6vw;
+    padding-top: 3vw;
+    margin-bottom: 4vw;
 }
 
 #footer-div h6 {
